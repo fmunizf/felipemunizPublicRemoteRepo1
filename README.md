@@ -2,4 +2,4 @@
 
 Changes on feature branch!
 
-This is Bruno updating Feilpe's repository!
+This is Bruno updating Felipe's repository!
